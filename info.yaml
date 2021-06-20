@@ -1,33 +1,17 @@
-# An example YAML file
-
-a_dictionary:
-  a_key: name
-  another_key: another_value
-  nested_dictionary:
-    nested_key: nested_value
-
-a_list:
-  - an item
-  - another item
-  - 1.25
-  - a_key: a_value
-  -
-    - another list
-
-
-
 # basic personal information
 basic_info:
   my_name: Gabrielle Locke
   website_name: Gabrielle's Website
-  accent_color: '#4527a0'
   job_title: Data Scientist at Whathever
   bio: >
     Hi Everyone!<br><br>
     I'm Gabrielle &#128522. I currently work at Whathever as a Data Scientist Associate Manager, designing and implementing digital products for the mining and financial industry. 
     I did both my masters and engineering degree at the University of Whatever, under the supervision of PhD. John Locke, working on applying state of the art deep learning models to stuff. 
     Check out my research! <br><br>
-    If you want to get in contact with me, just send me an email.
+    If you want to get in contact with me, just send me an email at:<br>mail [at] mail [dot] com.
+  research_interest: >
+    My research interests lie at the intersection of machine learning and business.
+    Currently I'm working on training deep reinforcement learning for market reserach.
 
 
 
@@ -48,9 +32,7 @@ publication_list:
     loc: ESREL2023
     url: https://arxiv.org/abs/2106.09085
 
-# Activate the social media links that you want to show
-  # github: https://github.com/your_profile
-  # # twitter: ""
-  # # linkedin: ""
-  # # google_scholar: ""
-  # # research_gate: ""
+
+social:
+  linkedin: https://linkedin.com
+  github: https://github.com

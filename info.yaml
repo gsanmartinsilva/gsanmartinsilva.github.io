@@ -18,17 +18,22 @@ a_list:
 
 # basic personal information
 basic_info:
-  my_name: "Gabrielle Locke"
+  my_name: Gabrielle Locke
   # Activate the social media links that you want to show
-  github: "https://github.com/your_profile"
+  github: https://github.com/your_profile
   # twitter: ""
   # linkedin: ""
   # google_scholar: ""
   # research_gate: ""
-  job_title: "PhD Student at Whathever"
+  job_title: Data Scientist at Whathever
+  bio: >
+    I'm Gabrielle. I currently work at Whathever as a Data Scientist Associate Manager, designing and implementing digital products for the mining and financial industry. 
+    I did both my masters and engineering degree at the University of Whatever, under the supervision of PhD. John Locke, working on applying state of the art deep learning models to stuff. 
+    Check out my research!
 
 # basic website configuration
 website_config:
   website_name: "Gabrielle's Website"
+  accent_color: '#4527a0'
 
 # Research papers

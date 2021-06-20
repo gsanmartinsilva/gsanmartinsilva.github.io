@@ -1,5 +1,5 @@
 # Academic website template
-This repository contains the code neccesary to build your own **static**, **responsive** and **minimalist** personal landing page. It includes sections to list your bio, your internet links (such as GitHub, Linkedin, etc.), your research and your CV.
+This repository contains the code neccesary to build your own **static**, **responsive** and **minimalist** personal landing page. It includes sections to list your bio, your internet links (such as GitHub, Linkedin, etc.), your research and your interests.
 
 It should be fairly easy to extend it with blogging capabilities, but it is not currently implemented because I don't like blogging :yum:.
 

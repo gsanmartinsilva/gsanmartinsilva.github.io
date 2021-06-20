@@ -12,5 +12,5 @@ output_text = environment.get_template('index.html').render(basic_info=basic_inf
                                                             publication_list=publication_list,
                                                             social=social)
 
-with open(os.path.join('rendered_files', 'index.html'), "w") as result_file:
+with open('index.html', "w") as result_file:
     result_file.write(output_text)
